@@ -16,4 +16,3 @@ for interval in time_string.split(','):
             total_minutes += seconds // 60
 
 print("Общее количество минут:", total_minutes)
-
